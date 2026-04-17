@@ -1,0 +1,15 @@
+# files of local applications to be ignored
+.claude
+.DS_store
+.idea
+# Roman's local folders to be ignored
+FromKubaForOmniFold/
+OmniFold/
+UnfoldRho/
+# get rid of large data files
+UnfoldJpsiMid/TTT*
+UnfoldJpsiMid/TTTT.LHC25g15.kCohJpsiToMu.HY639424.root
+UnfoldJpsiMid/TTTT.LHC25g15.kIncohJpsiToMu.HY643748.root
+# jupyter's folder
+UnfoldJpsiMid/.ipynb_checkpoints
+UnfoldJpsiMid/log_*
