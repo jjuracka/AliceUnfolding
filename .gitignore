@@ -10,6 +10,7 @@ UnfoldRho/
 UnfoldJpsiMid/TTT*
 UnfoldJpsiMid/TTTT.LHC25g15.kCohJpsiToMu.HY639424.root
 UnfoldJpsiMid/TTTT.LHC25g15.kIncohJpsiToMu.HY643748.root
+UnfoldJpsiMid/weights
 # jupyter's folder
 UnfoldJpsiMid/.ipynb_checkpoints
 UnfoldJpsiMid/log_*
