@@ -2,6 +2,7 @@
 .claude
 .DS_store
 .idea
+
 # Roman's local folders to be ignored
 FromKubaForOmniFold/
 OmniFold/
@@ -11,6 +12,11 @@ UnfoldJpsiMid/TTT*
 UnfoldJpsiMid/TTTT.LHC25g15.kCohJpsiToMu.HY639424.root
 UnfoldJpsiMid/TTTT.LHC25g15.kIncohJpsiToMu.HY643748.root
 UnfoldJpsiMid/weights/*
+UnfoldRhoMid/MergedTree*.root
+UnfoldRhoMid/weights/*
 # jupyter's folder
 UnfoldJpsiMid/.ipynb_checkpoints
 UnfoldJpsiMid/log_*
+UnfoldRhoMid/log_*
+test/weights/*
+test/log_*
